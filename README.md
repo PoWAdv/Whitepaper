@@ -1,8 +1,8 @@
 # HardForkWhitepaper
 Preparing for the PoWEth hardfork.
 
-**Deadline**
-- Before 2018 Q2, hurry doesn't solve anything, testing and passion does. 
+**Mainnet Release**
+- Mainnet start at 2018.03.31. 16:00 GMT+1!
 
 **HardFork conditions**
 - PoWEth were designed to reach a high difficulty level, which will adjusted at some point so high that PoW will stay only as a theoretical option to create new blocks. Fortunately/Unfortunately PoWEth were way more overmined that we ever expected, it caused the difficulty setted up 4.2e+65 (higher number than atoms exist in the universe) after the 3rd difficulty adjustement.
