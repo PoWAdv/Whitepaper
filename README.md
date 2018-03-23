@@ -1,6 +1,9 @@
 # HardForkWhitepaper
 Preparing for the PoWEth hardfork.
 
+**Ropsten Test Network**
+- https://ropsten.etherscan.io/address/0xdef54da6ca6c8b893dc63ace1e3a9513187f91ab
+
 **Mainnet Release**
 - Mainnet start at 2018.03.31. 16:00 GMT+1!
 
